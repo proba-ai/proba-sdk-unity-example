@@ -1,0 +1,48 @@
+# UNITY
+# -----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+#[Pp]ackages/
+/Bin/
+
+[Tt]emp.meta
+
+# Visual Studio cache directory
+.vs/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.csproj.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Rider IDE
+.idea
+
+**/.DS_Store
+Assets/Save/
+
+Assets/Save\.meta
+
+Assets/StreamingAssets\.meta
+
+Assets/StreamingAssets/
+
+UserSettings/
+
+StreamingAssets.meta
