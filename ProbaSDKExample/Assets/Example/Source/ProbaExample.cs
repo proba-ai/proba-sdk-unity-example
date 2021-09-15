@@ -23,7 +23,7 @@ public class ProbaExample : MonoBehaviour
 			},
 			deviceProperties: new[]
 			{
-				("installedAt", DateTime.Now.ToString()),
+				("installedAt", DateTime.UtcNow.ToString("yyyy-MM-ddTHH\\:mm\\:ss.fffffffzzz")),
 			}
 			);
 
